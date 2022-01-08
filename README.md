@@ -3,7 +3,7 @@
                       Software Engineering, Odoo "ERP Systems", Data Processing,
                       Web Devolopment.
 - 🌱 I’m currently learning Deep Neural Networks From Scratch.
-- 🕒 I'm 14 years old.
+- 🕒 I'm 15 years old.
 - 📫 How to reach me:
   - My Email: pyzapyza123@gmail.com
   - My Phone Number: +20 1212028291
