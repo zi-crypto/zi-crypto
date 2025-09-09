@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Arduino, Ethical Hacking,
                       Software Engineering, Odoo "ERP Systems", Data Processing,
                       Web Devolopment.
-- 🌱 I’m currently Working as a R&D Machine Learning Specialist @Maazaady LLC.
 - 🕒 I'm 18 years old.
 - 📫 How to reach me:
   - My Email: ziadmoamer@gmail.com
