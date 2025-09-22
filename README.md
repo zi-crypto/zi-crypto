@@ -6,6 +6,8 @@
 - 📫 How to reach me:
   - My Email: ziadmoamer@gmail.com
   - ziadamer.com
+ 
+
 While I was studying I made a lot of Machine Learning projects such as: Blood cell classifier, Translator for 100+ languages with OCR and Sound Recognition, Handwritten digit classifier, others.
 
 Thanks!
